@@ -4,6 +4,13 @@ img{
     overflow: hidden;
 }
 
+.logo{
+    position: fixed;
+    height: auto;
+    left: 16px;
+    width: 16px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -39,6 +46,4 @@ li a:hover{
     border-left: 1px solid white;
 }
 
-.putih{
-    background-color: white;
-}
+
