@@ -1,14 +1,14 @@
-img{
-    display: block;
-    margin: auto;
-    overflow: hidden;
-}
+
 
 .logo{
     position: fixed;
     height: auto;
     left: 16px;
     width: 16px;
+}
+
+p {
+    size: 60px;
 }
 
 ul {
